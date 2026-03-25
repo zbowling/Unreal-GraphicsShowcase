@@ -20,7 +20,7 @@ git lfs install
 ## Setup
 
 1. [Get access to the Unreal source code](https://www.unrealengine.com/en-US/ue-on-github).
-2. [Clone the `oculus-5.5` branch of the Oculus fork](https://github.com/Oculus-VR/UnrealEngine/tree/oculus-5.5).
+2. [Clone the `oculus-5.6` branch of the Oculus fork](https://github.com/Oculus-VR/UnrealEngine/tree/oculus-5.6).
 3. Clone this repository.
 4. Open a command prompt and navigate to your UE5 directory.
 5. Run:
@@ -56,6 +56,14 @@ Original blog post for the UE4 release:
 [Vulkan Subpasses in UE4 for Performant Tone Mapping on Quest](https://developers.meta.com/horizon/blog/graphics-showcase-using-vulkan-subpasses-in-ue4-for-performant-tone-mapping-on-quest/)
 
 # Updates
+
+## 22 December 2025 Update
+
+The project was updated to use OpenXR backend.
+
+## 04 December 2025 Update
+
+The project was updated to UE5.6.
 
 ## 20 December 2023 Update
 
